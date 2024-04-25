@@ -15,7 +15,7 @@ O Alura Midi é um instrumento musical de interface digital onde cada botão emi
 Para usar o Alura Midi, basta acessar a página e clicar nos botões do teclado para ouvir os sons dos instrumentos.
 
 ## Acesso
-Você pode acessar o Alura Midi através do seguinte [link](https://aluramidi-omega-five.vercel.app/).
+Você pode acessar o Alura Midi através do seguinte [link](https://deboranortes.github.io/aluramidi/).
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
